@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jogo-da-memoria-react.ts/static/css/main.a28b0704.css",
+    "main.js": "/jogo-da-memoria-react.ts/static/js/main.b3ead0df.js",
+    "static/js/787.886617a2.chunk.js": "/jogo-da-memoria-react.ts/static/js/787.886617a2.chunk.js",
+    "static/media/Sao-Paulo.png": "/jogo-da-memoria-react.ts/static/media/Sao-Paulo.d773df04b47b700b45ce.png",
+    "static/media/Corinthians.png": "/jogo-da-memoria-react.ts/static/media/Corinthians.fbb3ec8c8c6ed4f1d762.png",
+    "static/media/Inter.png": "/jogo-da-memoria-react.ts/static/media/Inter.6ae2f1e9d312a532efd2.png",
+    "static/media/Flamengo.png": "/jogo-da-memoria-react.ts/static/media/Flamengo.3f2dff01d77f0b27a0b3.png",
+    "static/media/Cruzeiro.png": "/jogo-da-memoria-react.ts/static/media/Cruzeiro.e5b330669a678c6508a0.png",
+    "static/media/Galo.png": "/jogo-da-memoria-react.ts/static/media/Galo.15be90c78d73d71177b9.png",
+    "static/media/Bola.png": "/jogo-da-memoria-react.ts/static/media/Bola.e1c8907333b38f177d88.png",
+    "static/media/logo.png": "/jogo-da-memoria-react.ts/static/media/logo.3b111a09a2898eb48b66.png",
+    "static/media/Botafogo.png": "/jogo-da-memoria-react.ts/static/media/Botafogo.523df09055db80cfe931.png",
+    "static/media/Vasco.png": "/jogo-da-memoria-react.ts/static/media/Vasco.803d40e49e40c2176f96.png",
+    "static/media/Bragantino.png": "/jogo-da-memoria-react.ts/static/media/Bragantino.d4262bba6d2f8e6153b2.png",
+    "static/media/Fluminense.png": "/jogo-da-memoria-react.ts/static/media/Fluminense.63670ef70e6591915dd6.png",
+    "index.html": "/jogo-da-memoria-react.ts/index.html",
+    "static/media/restart.svg": "/jogo-da-memoria-react.ts/static/media/restart.0348647a7dae743f139d281193d1d372.svg",
+    "main.a28b0704.css.map": "/jogo-da-memoria-react.ts/static/css/main.a28b0704.css.map",
+    "main.b3ead0df.js.map": "/jogo-da-memoria-react.ts/static/js/main.b3ead0df.js.map",
+    "787.886617a2.chunk.js.map": "/jogo-da-memoria-react.ts/static/js/787.886617a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28b0704.css",
+    "static/js/main.b3ead0df.js"
+  ]
+}
