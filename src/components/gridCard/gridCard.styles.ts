@@ -28,12 +28,19 @@ export const Area =styled.div<props>`
         height: 80px;
         opacity:${props => props.opacity};
     }
+    @media(max-width:480px){
+        padding: 7px;
+        border-radius: 7px; 
+        img{
+            height: 70px;
+        }
+     }
 
     @media(max-width:380px){
         padding: 5px;
         border-radius: 5px; 
         img{
-            height: 70px;
+            height: 60px;
         }
      }
 

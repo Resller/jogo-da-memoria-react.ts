@@ -71,7 +71,7 @@ export const AreaGamer = styled.div `
     width:100%;
 
     @media(max-width:770px){
-        grid-template-columns: repeat(3,fr);
+      grid-template-columns: repeat(3,1fr);
         width:94%;
      }
 
