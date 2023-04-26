@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jogo-da-memoria-react.ts/static/css/main.a28b0704.css",
-    "main.js": "/jogo-da-memoria-react.ts/static/js/main.b3ead0df.js",
+    "main.js": "/jogo-da-memoria-react.ts/static/js/main.cae687d7.js",
     "static/js/787.886617a2.chunk.js": "/jogo-da-memoria-react.ts/static/js/787.886617a2.chunk.js",
     "static/media/Sao-Paulo.png": "/jogo-da-memoria-react.ts/static/media/Sao-Paulo.d773df04b47b700b45ce.png",
     "static/media/Corinthians.png": "/jogo-da-memoria-react.ts/static/media/Corinthians.fbb3ec8c8c6ed4f1d762.png",
@@ -18,11 +18,11 @@
     "index.html": "/jogo-da-memoria-react.ts/index.html",
     "static/media/restart.svg": "/jogo-da-memoria-react.ts/static/media/restart.0348647a7dae743f139d281193d1d372.svg",
     "main.a28b0704.css.map": "/jogo-da-memoria-react.ts/static/css/main.a28b0704.css.map",
-    "main.b3ead0df.js.map": "/jogo-da-memoria-react.ts/static/js/main.b3ead0df.js.map",
+    "main.cae687d7.js.map": "/jogo-da-memoria-react.ts/static/js/main.cae687d7.js.map",
     "787.886617a2.chunk.js.map": "/jogo-da-memoria-react.ts/static/js/787.886617a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a28b0704.css",
-    "static/js/main.b3ead0df.js"
+    "static/js/main.cae687d7.js"
   ]
 }
